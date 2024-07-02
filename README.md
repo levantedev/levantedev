@@ -12,7 +12,7 @@
 
 
  <h3 align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/321388488140390413?&animated=true&showDisplayName=true&idleMessage=Engaged%20in%20otherworldly%20affairs..." alt="levante" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/321388488140390413?&animated=true&showDisplayName=true&idleMessage=Engaged%20in%20otherworldly%20affairs...&hideSpotify=false" alt="levante" />
         </samp>
 
 </h3>
